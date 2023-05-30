@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@600&family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bitter', serif;
+    font-family: 'Roboto', sans-serif;
+}
+.banner1{
+    background-color:#1CD1B0;
+    font-size: medium;
+    padding: 5px;
+}
+.banner2{
+    position: sticky;
+    background-color: #00669F;
+    top: 0;
+    padding: 20px;
+    margin-bottom: 150px;
+}
+
+.heroestot{
+    display: flex;
+    justify-content: center;
+}
+
+.harley{
+    display: block;
+    border-radius: 70px;
+    width: 130px;
+    margin: auto;
+    margin-top:-300px;
+    margin-bottom: 200px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+}
+.batman{
+    display: block;
+    border-radius: 70px;
+    width: 130px;
+    margin: auto;
+    margin-top:-300px;
+    margin-bottom: 200px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.box1{
+    
+    background-image: url(./img/bg1.jpg);
+    background-repeat: no-repeat;
+    background-color: #F3F3F3;
+    background-size: 350px;
+    width: 350px;
+    height: 570px;
+    margin:50px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 15px 15px 0px 0px;
+}
+.box2{
+    background-image: url(./img/bg2.jpg);
+    background-size:300px 193px;
+    background-repeat: no-repeat;
+    background-color: #F3F3F3;
+    background-size: 350px;
+    width: 350px;
+    height: 570px;
+    margin:50px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+   border-radius: 15px 15px 0px 0px;
+}
+
+.cora{
+margin-left: 20px;
+margin-top: 15px;
+
+}
+.hero{
+    margin-top: 270px;
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    display: block;
+    background-color:  #00669F;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin:auto;
+    margin-top: -10px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+p{
+    padding: 15px;
+    text-align:justify;
+}
+.h1footer{
+    background-color: #00669F;  
+    color: white;
+    font-size: medium;
+    padding: 10px;
+    font-weight: lighter;
+}
