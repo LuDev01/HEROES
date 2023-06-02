@@ -20,7 +20,7 @@
 
 .heroestot{
     display: flex;
-    justify-content: center;
+    justify-content:center;
 }
 
 .harley{
@@ -48,10 +48,10 @@
     background-image: url(./img/bg1.jpg);
     background-repeat: no-repeat;
     background-color: #F3F3F3;
-    background-size: 350px;
-    width: 350px;
+    background-size: 370px;
+    width: 370px;
     height: 570px;
-    margin:50px;
+    margin:50px 0px 50px 0px;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     border-radius: 15px 15px 0px 0px;
 }
@@ -60,12 +60,24 @@
     background-size:300px 193px;
     background-repeat: no-repeat;
     background-color: #F3F3F3;
-    background-size: 350px;
-    width: 350px;
+    background-size: 370px;
+    width: 370px;
     height: 570px;
-    margin:50px;
+    margin:50px 0px 50px 50px;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
    border-radius: 15px 15px 0px 0px;
+}
+.box3{
+    
+    background-image: url(./img/bg1.jpg);
+    background-repeat: no-repeat;
+    background-color: #F3F3F3;
+    background-size: 370px;
+    width: 370px;
+    height: 570px;
+    margin:50px 0px 50px 50px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 15px 15px 0px 0px;
 }
 
 .cora{
